@@ -34,5 +34,5 @@ How far can you go in less than 5 seconds?
 
 * Read: RSA Factoring Challenge
   
-  ## Autor
+  ## Author
     Maryann Unoarumi - Maryann529
